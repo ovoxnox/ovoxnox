@@ -70,6 +70,6 @@
 ![sqlmap](https://img.shields.io/badge/-sqlmap-000?&logo=sqlmap)
 ![OWASP](https://img.shields.io/badge/OWASP--000?&logo=OWASP&logoColor=61DE2A)
 
-###### How to reach me: https://t.me/ju_oj
+###### How to reach me: https://t.me/ovoxnox
 
 <img src="https://www.immuniweb.com/images/owasp-top-10.jpg">
